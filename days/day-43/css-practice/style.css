@@ -1,0 +1,17 @@
+h1{
+    color: whitesmoke;
+    background-color: darkseagreen;
+}
+*{
+    background-color:antiquewhite ;
+}
+h2{
+    color: #FAF8F1;
+    background-color: #876ab3;
+    font-family: Arial,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 4em;
+    font-display: fallback;
+    text-align: left;
+}
+
