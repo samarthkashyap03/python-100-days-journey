@@ -99,6 +99,13 @@ This file records what I worked on and learned while building Python projects fr
 
 ---
 
+## Day 40-45: Web Development and Scraping
+- Learnt about HTML,CSS
+- Learnt about Beautiful Soup and web scraping
+- Did projects with bs4
+
+---
+
 ## Key Takeaways So Far
 - Improved confidence in Python by building many small projects
 - Learned how to structure code as projects grow
